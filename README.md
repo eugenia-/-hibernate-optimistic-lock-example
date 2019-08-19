@@ -1,0 +1,1 @@
+# hibernate-lock-strategy-example
