@@ -1,1 +1,1 @@
-# hibernate-lock-strategy-example
+Hibernate optimistic lock strategy examples
